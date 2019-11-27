@@ -1,5 +1,0 @@
-package string
-
-class string {
-
-}
